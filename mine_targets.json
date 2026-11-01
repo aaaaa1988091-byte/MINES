@@ -1,0 +1,14 @@
+{
+  "_readme": "current=目前群組；groups=群組名稱→方塊清單（同一群組的方塊會一起挖）；切換鍵依 groups 順序輪流；執行中修改此檔會自動重載",
+  "current": "gray_wool",
+  "groups": {
+    "coal_block": [
+      "minecraft:coal_block"
+    ],
+    "gray_wool": [
+      "minecraft:gray_wool",
+      "minecraft:cyan_terracotta",
+      "minecraft:polished_diorite"
+    ]
+  }
+}
